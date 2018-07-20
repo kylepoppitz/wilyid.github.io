@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+      
+    <!-- Link main stylesheet -->
+    <link rel='stylesheet' href="css/stylesheet.css">
+      
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
+      
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+      
+    <style>
+    body{
+        font-family: 'Poppins', sans-serif;
+    }  
+        
+    .container{
+        margin-top: 0px;
+    }
+        
+    .container2{
+        margin-top: 10px;
+        margin-left:15%;
+        margin-right: 15%;
+
+        
+    }    
+    div i{
+        color: white;
+    }
+    nav{
+        background-color: white;
+        color: #0073ff;
+        font-size: 40px;
+        padding: 0px;
+    }
+        
+    .nav2{
+        background-color: white;
+        color: #0073ff;
+        font-size: 20px;
+        padding: 0px;
+    }    
+    .card-cus-nav{
+    background-color: #0F7270;
+    height: 108px;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    display: none;
+    }
+    .card-cus-nav button{
+    width: 100%;
+    }
+    </style>
+      
+
+    <title>Hi, Elliot!</title>
+  </head>
+  <body style="background-color: #65b5b2">
+
+<!-- Banner -->
+    <nav>
+    <a href="wilyid.com"><i class="fas fa-home"></i></a> [the] Wily I.D. [dot] COM
+    </nav>
+    </div>
+      </div>
+
+<!-- Nav Bar -->
+<nav class="navbar navbar-expand-lg bg-dark navbar-dark nav2">
+
+    <!-- Dropdown -->
+    <ul class="navbar-nav">
+    <li class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle" href="https://destiny.bungie.org/d/20180608" id="navbardrop" data-toggle="dropdown">
+        Videos
+      </a>
+      <div class="dropdown-menu">
+        <a class="dropdown-item" href="https://www.google.com/" target="_blank">Tech Grandma!</a>
+        <a class="dropdown-item" href="https://www.google.com/" target="_blank">Coming Soon.</a>
+      </div>
+    </li>    
+      
+        <li class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+        Articles
+      </a>
+      <div class="dropdown-menu">
+        <a class="dropdown-item" href="https://www.google.com/" target="_blank">Articles (Coming Soon)</a>
+        <a class="dropdown-item" href="https://www.google.com/" target="_blank">External Publications</a>
+      </div>
+    </li>  
+
+<!-- Links -->
+    <li class="nav-item">
+      <a class="nav-link" href="https://www.google.com/" target="_blank">What is Instructional Design?</a>
+    </li>
+  </ul>
+                    <p><div><a href="http://linkedin.com/in/kylepoppitz"><i class="fa fa-linkedin"></i><font color="white">LinkedIn</font></a></div></p>
+</nav>
+    <HEAD>
+<!--Figure out CSS code for random Title(s)-->    
+<TITLE>Working on a catchy title</TITLE>
+
+<META name="keywords" content="blog, reviews, humor, comics, comedy, movie
+reviews, jokes, short stories,"><META name="description"
+content="An overdue labor of self-indulgence">
+
+<!-- Banner -->    
+<!--would work better as a CSS element I can update individually as more banners are added-->
+                    <table width=8 cellspacing=0 cellpadding=20 border=0 align=center>
+
+<!-- Entries -->
+ <TD width=1000 valign=top BGCOLOR="white" background="white">                            
+<table width=1000 cellspacing=0 cellpadding=10 border=0 align=center>
+                    <script type="text/javascript">
+                      var imageURLs = [
+                           "buttons_and_banners/gpcbanner3.jpg"
+                         , "buttons_and_banners/gpcbanner2.jpg"
+                         , "buttons_and_banners/gpcbanner.jpg"
+                      ];
+                      function getImageTag() {
+                        var img = '<img src=\"';
+                        var randomIndex = Math.floor(Math.random() * imageURLs.length);
+                        img += imageURLs[randomIndex];
+                        img += '\" alt=\"Some alt text\"/>';
+                        return img;
+                      }
+                    </script>
+                    </head>
+                    <body>
+                    <script type="text/javascript">
+                      document.write(getImageTag());
+                    </script>
+     <!-- Entry -->
+     <br>
+<center><h1><b>Header 1</b></h1></center>     
+     <br>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <font color="red"><b>Example one</b>.</font> Quis nostrud exercitation ullamco laboris nisi ut <font color="Blue"><b>Example two</b>.</font> 
+        <p>Aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>
+        <center><img src="buttons_and_banners/HTML_imgs/Folder1/bluebeary.png" height=300></center>
+
+          
+    <center><h1><b>Header 2</b></h1></center>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            <p>
+            <center><img src="buttons_and_banners/HTML_imgs/Folder2/untitled.png" height=300></center>
+            </p>
+     </body>
+    </TD>
+    </table>
+    </META>
+        </META>
+</HEAD>
+</HTML>

@@ -1,0 +1,26 @@
+/* Customizing Styling Properties of Cards */
+
+.card{
+    border: none;
+    border-bottom-left-radius: 25px;
+    background-color: transparent;
+}
+
+.card-header{
+    height: 200px;
+    text-align: center;
+    padding-top: 25px;
+    font-size: 40px;
+    background-color: #0073ff;
+    border-top-right-radius: 25px !important;
+}
+
+.card-body, .card-footer{
+    background-color: white;
+    position: relative;
+}
+
+
+.card-footer{
+    border-bottom-left-radius: 25px !important;
+}
